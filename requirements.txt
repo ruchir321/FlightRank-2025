@@ -1,1 +1,10 @@
 kaggle
+pandas
+matplotlib
+polars
+numpy
+xgboost
+catboost
+lightgbm
+scikit-learn
+altair
